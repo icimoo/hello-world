@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+Hi, this is me,from a town of china.
